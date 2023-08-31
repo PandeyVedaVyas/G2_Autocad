@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: [PANDEY VEDAVYAS]
 
-## Qualifications: [Your Qualifications]
+## Qualifications: [B.TECH]
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [AUTOCAD & SOLIDWORKS]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
